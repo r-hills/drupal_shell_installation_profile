@@ -1,4 +1,4 @@
-STEPS FOR USING THIS PROFILE:
+TO USE THIS INSTALLATION PROFILE:
 1. Create a database named appropriately for your project
 2. Import the database in the sites/DB_backup folder
 3. Add an Administrative user to your database (optional)
