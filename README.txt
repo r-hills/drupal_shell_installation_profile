@@ -4,7 +4,7 @@ TO USE THIS INSTALLATION PROFILE:
 3. Add an Administrative user to your database (optional)
 4. Edit the settings.php file to reflect your database and Administrative user name
 
-*** IMPORTANT: This Installation Profile was created and tested in a Windows/XAMPP environment and has not been ported to other platforms (yet). They might require additional configuration settings after loggin into the Drupal site. (For example, when porting a project from Apple/MAMP to Windows, changes were required to Configuration > File system settings before uploading user account and blog pictures would work.) 
+*** IMPORTANT: This Installation Profile was created and tested in a Windows/XAMPP environment and has not been ported to other platforms (yet). They might require additional configuration settings after loggin into the Drupal site. 
 
 
 DRUPAL README:
